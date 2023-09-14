@@ -1,1 +1,2 @@
 Feature 1 is added
+I have added an extra line.
